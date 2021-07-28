@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="166px" height="166px" viewBox="0 0 166 166" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <path d="M14,0 L152,0 C159.731986,0 166,6.2680135 166,14 L166,152 C166,159.731986 159.731986,166 152,166 L14,166 C6.2680135,166 0,159.731986 0,152 L0,14 C0,6.2680135 6.2680135,0 14,0 Z" id="Rectangle" fill="#30424A"></path>
+            <g id="Group-2" transform="translate(28.000000, 16.000000)">
+                <path d="M13.0263158,0 L96.9736842,0 C104.16792,0 110,5.8532878 110,13.0736842 L110,124.926316 C110,132.146712 104.16792,138 96.9736842,138 L13.0263158,138 C5.83208023,138 0,132.146712 0,124.926316 L0,13.0736842 C0,5.8532878 5.83208023,0 13.0263158,0 Z" id="Rectangle" fill="#CBF0FF"></path>
+                <polygon id="Rectangle" fill="#30424A" points="20 13 90 13 90 31 20 31"></polygon>
+                <polygon id="Rectangle" fill="#30424A" points="20 43 90 43 90 52 20 52"></polygon>
+                <polygon id="Rectangle" fill="#30424A" points="20 64 90 64 90 103 20 103"></polygon>
+                <polygon id="Rectangle" fill="#30424A" points="20 111 90 111 90 129 20 129"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

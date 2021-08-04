@@ -20,6 +20,7 @@ export default class LightningPardotFiles extends LightningElement {
         this.customHtml             = this.template.querySelector('div.lightningpardotfiles')
         this.customHtml.innerHTML   = this.htmlValue
 
+        //https://github.com/SalesforceLabs/LightningPardotFiles
         console.log(`[INFO] LightningPardotFiles INIT ${VERSION}`)
     }
     

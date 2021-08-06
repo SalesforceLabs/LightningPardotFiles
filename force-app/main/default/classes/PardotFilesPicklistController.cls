@@ -73,7 +73,7 @@ global with sharing class PardotFilesPicklistController extends VisualEditor.Dyn
     
                             String markup = '';
                             if( Calypso.listContains( extensionNames, (Object) getExtensionName( urltxt ) ) ) {
-                                markup = '<img src="' + urltxt  + '" style="display:block; margin-left:auto; margin-right:auto;"></img>';
+                                markup = '<img src="' + urltxt  + '" style="display:block; width:100%; margin-left:auto; margin-right:auto;"></img>';
                             } else {
                                 markup = '<a href="' + urltxt  + '" style="display:block; text-align:center;">' + name + '</a>';
                             }
